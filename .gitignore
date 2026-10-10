@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+# Segredos
+.env
+.env.*
+!.env.example
+# Dados e pesos locais
+data/raw/*
+!data/raw/README.md
+data/processed/*
+!data/processed/README.md
+*.pt
+*.pth
+*.onnx
+*.mp4
+*.avi
+runs/
+# Editor e sistema
+.vscode/
+.idea/
+.DS_Store
