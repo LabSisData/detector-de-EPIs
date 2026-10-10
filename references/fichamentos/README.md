@@ -1,3 +1,3 @@
 # Fichamentos
 
-fichamento-8-10.md preserva o rascunho enviado pelo estudante, incluindo campos ainda vazios. Revise autoria, ano, resumo e referência antes de considerá-lo concluído. Para novas leituras use docs/templates/fichamento.md.
+[fichamento-8-10.md](fichamento-8-10.md) foi complementado com auxílio de IA em 10/10/2026 e precisa de revisão pelo estudante. O rascunho original permanece no histórico Git. Para novas leituras use [o modelo](../../docs/templates/fichamento.md).

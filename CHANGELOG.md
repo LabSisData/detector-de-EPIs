@@ -1,5 +1,12 @@
 # Histórico de versões
 
+## V0.0.2 — 10/10/2026
+
+- Fichamento complementado após consulta ao artigo original.
+- Ano não confirmado substituído por [s. d.].
+- Separação entre resumo, análise crítica e compreensão proposta.
+- Atualização do catálogo de referências.
+
 ## V0.0.1 — 10/10/2026
 
 - Estrutura de pesquisa e documentação.
